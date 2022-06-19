@@ -18,8 +18,8 @@ Along the way, an organization hoping to build a culture of data and build data 
 
 **2. [Use data ethically.](../data-ethics/data-ethics.html)**
 
-**3. [Knows its data.](../knowing-your-data.html)**
+**3. [Knows its data.](knowing-your-data.html)**
 
-**4. [Knows its users.](../knowing-your-users.html)**
+**4. [Knows its users.](knowing-your-users.html)**
 
-**5. [Empowers members to learn, improve, and share their data skills.](../data-socialization.html)**
+**5. [Empowers members to learn, improve, and share their data skills.](data-socialization.html)**
