@@ -1,6 +1,6 @@
 # Data Literacy 101
 
-Source code for the **Data Literacy 101** website built with [Livemark](https://livemark.frictionlessdata.io/).
+Source code for the [**Data Literacy 101 website**](https://bnhr.xyz/data-literacy-101) by [BNHR](https://bnhr.xyz/) built with [Livemark](https://livemark.frictionlessdata.io/).
 
 The website aims to present, introduce, and provide a general overview of the fundamentals of data literacy in a way that is approachable and easy to understand. The fields of data and data literacy are vast and this website represents only a fraction of all the available knowledge and information. Be that as it may, the author hopes that this will serve as a good starting point for anyone interested in learning about open data, data literacy, and how these concepts can be applied in the work that they do.
 
