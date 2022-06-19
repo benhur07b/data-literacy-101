@@ -1,0 +1,107 @@
+brand:
+  text: BNHR - Data Literacy 101
+
+site:
+  text: Data Literacy 101
+  favicon: favicon.ico
+  styles:
+    - static/css/style.css
+
+about:
+  text: Learn about open data, how to work with data, and how to do better data-driven projects, and how to improve your data literacy.
+
+topics:
+  selector: h2
+
+pages:
+  items:
+    - name: Home
+      path: index
+    - name: Open Data
+      items:
+        - path: pages/open-data/introduction
+          name: Introduction
+        - path: pages/open-data/what-is-data
+        - path: pages/open-data/what-can-data-not-do
+        - path: pages/open-data/machine-readable-data
+        - path: pages/open-data/data-standards
+        - path: pages/open-data/what-is-open
+        - path: pages/open-data/beyond-open-data
+        - path: pages/open-data/open-data-in-the-philippines
+    - name: Data Literacy
+      items:
+        - path: pages/data-literacy/introduction
+          name: Introduction
+        - path: pages/data-literacy/what-is-data-literacy
+        - path: pages/data-literacy/what-is-data-literate
+    - name: The Data Pipeline and Data-driven Projects
+      items:
+        - path: pages/data-pipeline-and-data-driven-projects/introduction
+          name: Introduction
+        - path: pages/data-pipeline-and-data-driven-projects/what-is-data-pipeline
+        - path: pages/data-pipeline-and-data-driven-projects/define
+        - path: pages/data-pipeline-and-data-driven-projects/find
+        - path: pages/data-pipeline-and-data-driven-projects/get
+        - path: pages/data-pipeline-and-data-driven-projects/verify
+        - path: pages/data-pipeline-and-data-driven-projects/clean
+        - path: pages/data-pipeline-and-data-driven-projects/analyze
+        - path: pages/data-pipeline-and-data-driven-projects/present
+    - name: Making Better Data Presentations 
+      items:
+        - path: pages/better-data-presentations/introduction
+          name: Introduction
+        - path: pages/better-data-presentations/design-principles
+        - path: pages/better-data-presentations/things-to-consider-data-visualization
+        - path: pages/better-data-presentations/good-infographics
+        - path: pages/better-data-presentations/exceptions
+    - name: Free and Open Source Tools
+      items:
+        - path: pages/free-and-open-source-tools/introduction
+          name: Introduction
+        - path: pages/free-and-open-source-tools/data-collection-tools
+        - path: pages/free-and-open-source-tools/data-analysis-and-presentation-tools
+    - name: Data Ethics
+      items:
+        - path: pages/data-ethics/introduction
+          name: Introduction
+        - path: pages/data-ethics/data-ethics
+    - name: Common Data Issues
+      items:
+        - path: pages/common-issues/introduction
+          name: Introduction
+        - path: pages/common-issues/data-fallacies
+        - path: pages/common-issues/open-data-misconceptions
+    - name: Sharing and Opening Data
+      items:
+        - path: pages/sharing-opening-data/introduction
+          name: Introduction
+        - path: pages/sharing-opening-data/open-by-design
+        - path: pages/sharing-opening-data/co-creation
+        - path: pages/sharing-opening-data/five-star-open-data
+    - name: Building Data Culture
+      items:
+        - path: pages/data-culture/introduction
+          name: Introduction
+        - path: pages/data-culture/building-data-culture
+        - path: pages/data-culture/knowing-your-data
+        - path: pages/data-culture/knowing-your-users
+        - path: pages/data-culture/data-socialization
+    - name: Other Resources
+      path: pages/other-resources
+
+links:
+  items:
+    - name: BNHR
+      path: https://bnhr.xyz
+    - name: BNHR Facebook
+      path: https://facebook.com/bnhr.xyz
+    - name: BNHR YouTube (Subscribe)
+      path: https://www.youtube.com/c/BNHRdotXYZ?sub_confirmation=1
+    - name: BNHR Twitter
+      path: https://www.twitter.com/BNHRdotXYZ
+
+
+source: false
+
+rating:
+  type: star
