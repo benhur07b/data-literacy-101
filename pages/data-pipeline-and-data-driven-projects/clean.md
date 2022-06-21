@@ -60,7 +60,10 @@ Examples of content problems include:
 | Content problem     | Spelling mistakes                                           | Correct the spelling. You can use a spell checker.                          |
 | Content problem     | Missing, incorrect, or blank values                         | Find, verify, and add the correct values.                                   |
 
-You can always refer to [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) for an exhaustive reference to problems seen in real-world data and the suggestions on how to resolve them.
+```yaml remark
+type: success
+text: You can always refer to <a href="https://github.com/Quartz/bad-data-guide"><strong>The Quartz guide to bad data</strong></a> for an exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+```
 
 ```yaml remark
 type: primary

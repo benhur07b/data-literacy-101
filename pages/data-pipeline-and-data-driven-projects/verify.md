@@ -52,4 +52,6 @@ The four most common methods to perform verification of data are:
 ### No verification process
 Ideally, every new dataset must go through at least one of the four verification methods before it is used in the project. Of course, this isn't always followed. A lack of rigor and commitment to this process of data verification can lead teams to miss some inconsistencies in the data. At best, this leads to a painstaking backtracking process through the data pipeline. At worst, your team will just assume that the inconsistencies can be ignored.  
 
-You may refer to [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) for an exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
+```yaml remark
+type: success
+text: You may refer to <a href="https://github.com/Quartz/bad-data-guide"><strong>The Quartz guide to bad data</strong></a> for an exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.

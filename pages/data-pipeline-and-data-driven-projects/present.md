@@ -17,7 +17,7 @@ What you want to achieve from the project will affect the way you will present d
 At the same time, you may choose to present the same dataset in different ways depending on your audience:
 - when using it in report, you may choose to include a table and a simple graph
 - when presenting it to a specialized or expert audience, you may prefer the use of more complex or interactive visualizations
-- when it's for the general public, you might want to create an infograghic
+- when it's for the general public, you might want to create an infographic
 
 ### Put the audience first
 Always think about your audience when planning or creating your data presentation. If you can, consult and communicate with them at each step of your creative process. Show them your drafts, ask them for comments or suggestions to improve your messaging, do user-testing with a subset of your expected audience. At the end of the day, **the success of your data presentation is not up to you but to your audience**.

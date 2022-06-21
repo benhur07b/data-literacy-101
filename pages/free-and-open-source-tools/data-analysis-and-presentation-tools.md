@@ -5,7 +5,7 @@
 
 ### What is it?
 - LibreOffice Calc is the spreadsheet application of the free and open source office suite LibreOffice.
-- It is a modern spreadsheet application with features are as good as, if not better, than those of proprietary alternatives.
+- It is a modern spreadsheet application with features that are as good as, if not better, than those of proprietary alternatives.
 
 ### Where do I find it?
 - [https://www.libreoffice.org/](https://www.libreoffice.org/)
@@ -270,5 +270,5 @@
 
 ```yaml remark
 type: success
-text: Other popular data visualization tools include Flourish, Tableau, and Canva. These are proprietary.
+text: Other popular data visualization and presentation tools include Flourish, Tableau, Google Data Studio, PowerBI, and Canva. These are proprietary.
 ```
