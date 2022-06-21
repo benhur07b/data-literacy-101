@@ -164,7 +164,7 @@
 - SPARQL query results
 
 ### What can I do with it?
-- Creat a wide range of charts from your data
+- Create a wide range of charts from your data
 - Export your chart as a vector or raster image that you can edit in other software
 
 ### How easy is it to learn and use?
@@ -248,7 +248,7 @@
 - Easy to Hard depending on what you intend to use it for.
 
 ## Mapbox
-`free (as to cost)`
+`free (as to cost)` `source available`
 
 ### What is it?
 - Mapbox is a collection of products that allow you use location information to create applications and solutions.
