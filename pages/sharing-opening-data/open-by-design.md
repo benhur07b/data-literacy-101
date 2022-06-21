@@ -16,3 +16,8 @@
 - **Prefer open source** instead of proprietary and closed solutions.
 - [**Use an open license**](open-licenses.html).
 - [**Co-develop and co-create from the start**](co-creation.html). Don’t make it hard for people to collaborate with you
+
+```yaml remark
+type: success
+text: You can also refer to <a href="https://github.com/theodi/data-publish-list"><strong>How to publish open data - a list of advice and tools</strong></a> from ODI that are helpful in publishing open data.
+```
