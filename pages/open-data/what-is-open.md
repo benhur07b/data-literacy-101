@@ -35,8 +35,8 @@ text: One of the common misconceptions about open data is the <b>fear that when 
 
 ### The Free and Open Adobo
 <figure>
-<img src="https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/278167230_10220047776052946_5334266971665453139_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeESmHfWI2AiarQzzxVMzhi_GzHx_pji_CAbMfH-mOL8IAKas8G-sL14XERR8wkpAkbxFayMmgmajT-F7NDS_g3U&_nc_ohc=y0yuxbu1JpMAX-MPO9e&_nc_ht=scontent-sin6-4.xx&oh=00_AT8tGTF4LRUk2tMrVv1ayCw4G7toPCo6CotznpQQq_NNKg&oe=62AFBF7E" width="420">
-<figcaption><i>Chicken adobo with rice ala <a href="https://www.facebook.com/mapmakerdavidgarcia">David Garcia</i></a></figcaption>
+<a title="dbgg1979 on flickr, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Chicken_adobo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicken_adobo.jpg/512px-Chicken_adobo.jpg"></a>
+<figcaption><i>Chicken abodo</i></a></figcaption>
 </figure>
 
 The **Free and Open Adobo** is a common analogy I use in order to talk about freedom and openness. If you are given a Free and Open Adobo, it not only gives you the freedom to eat the adobo but also the freedom to study how the adobo is made, the freedom to modify the adobo to suit your taste by adding seasoning or changing the recipe, and the freedom to share the adobo with your neighbor. Your neighbor also gets the same freedoms as you and they will be able to change the adobo to suit their taste.
