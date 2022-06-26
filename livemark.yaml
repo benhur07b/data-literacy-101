@@ -8,7 +8,7 @@ site:
     - static/css/style.css
 
 about:
-  text: Learn about open data, how to work with data, and how to do better data-driven projects, and how to improve your data literacy.
+  text: Learn about open data, how to work with data, how to do better data-driven projects, and how to improve your data literacy.
 
 topics:
   selector: h2
