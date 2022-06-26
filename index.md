@@ -26,6 +26,11 @@ I am free and open stuff advocate from the Philippines who works at the intersec
 
 I support and take an active role in the open data and open mapping communities in the Philippines as an individual and through [BNHR](https://bnhr.xyz), my open data and open geospatial consultancy, and SmartCT, a tech non-profit that I co-founded. You can find me online on my [website](https://bnhr.xyz/) and on [Facebook](https://facebook.com/bnhr.xyz), [YouTube (subscribe)](https://www.youtube.com/c/BNHRdotXYZ?sub_confirmation=1), [Twitter](https://www.twitter.com/BNHRdotXYZ), and [Mastodon](https://mastodon.social/@benhur07b).
 
+## Support BNHR
+If you find these materials useful, you can consider donating to the cause or buying me a drink below.
+
+<a href='https://ko-fi.com/V7V2DF6B1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Donate and support BNHR' /></a>
+
 ## License
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img class="mb-2" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
