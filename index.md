@@ -4,7 +4,7 @@
 This website aims to present, introduce, and provide a general overview of the fundamentals of data literacy in a way that is approachable and easy to understand. The fields of data and data literacy are vast and this website represents only a fraction of all the available knowledge and information. Be that as it may, the author hopes that this will serve as a good starting point for anyone interested in learning about open data, data literacy, and how these concepts can be applied in the work that they do.
 
 ### Using the website
-You can use the website as a general reference. It is divided into modules that discuss common topics in the field of data literacy and provide links to other learning resources.
+You can use the website as a general reference. It is divided into modules that discuss common topics in the field of data literacy and provides links to other learning resources.
 
 ```yaml remark
 type: success
